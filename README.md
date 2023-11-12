@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @eXa25
+- 👋 Hi, I’m @Muhammad Fajar Ganevi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML & CSS
 - 📫 How to reach me 
